@@ -6,7 +6,6 @@ on:
       - '!main' # exclude main branch
       - '!master' # exclude main branch
 
-jobs:
   docs:
     name: Documentation
     runs-on: ubuntu-latest
